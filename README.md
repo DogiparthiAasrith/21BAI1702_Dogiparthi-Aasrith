@@ -32,17 +32,31 @@ This is a simple, web-based, turn-based chess game where two players can compete
 
 ### Illustration
 1.Press New Game button for getting the unique Game ID.
+
 ![WhatsApp Image 2024-08-27 at 01 43 54_3b9d1469](https://github.com/user-attachments/assets/dc48ef0f-231d-4d21-a5de-e7e31b789daf)
+
 2.Join the game from another tab copy pasting the Game ID which we got in the previous step.
+
 ![WhatsApp Image 2024-08-27 at 01 44 35_6cbb17fe](https://github.com/user-attachments/assets/97e65d25-cb73-4879-bb03-cbba52eb3dd1)
+
 3.Let's split the screen into two tabs to play the game simultaneously.
+
 ![WhatsApp Image 2024-08-27 at 01 46 06_13346078](https://github.com/user-attachments/assets/ece325a7-3ff8-41fd-b56f-4a95f344572e)
+
 4.Now let's start with the pawn move 'P3:B'. The 'A-P3' moves in the below way.
+
 ![WhatsApp Image 2024-08-27 at 01 46 51_20fa2370](https://github.com/user-attachments/assets/0c91be7d-669c-4407-9dfc-60d1080f8d12)
+
 5.Next let's see Hero-1 move 'H2:FL'. The 'B-H2' moves in the below way.
+
 ![WhatsApp Image 2024-08-27 at 01 47 24_83874f80](https://github.com/user-attachments/assets/d57976ed-b255-4199-a2ab-1e3194882cb9)
+
 6.This is the Hero-2 move 'H1:BR'. The 'A-H1' moves in the below way.
+
 ![WhatsApp Image 2024-08-27 at 01 48 10_b6f4d8af](https://github.com/user-attachments/assets/5df6ffd6-238f-4db4-9dcf-855b43bdea6e)
-7.Final
+
+7.Conculusion
+
 ![WhatsApp Image 2024-08-27 at 01 56 59_9d46fda7](https://github.com/user-attachments/assets/1f205afb-47b1-475c-b88d-cd228643ac10)
+
 This streamlined guide ensures that the game setup and gameplay are easy to follow and enjoy.
